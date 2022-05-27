@@ -1,0 +1,2 @@
+#!/bin/bash
+mv me /tmp/7-movethatfile/
